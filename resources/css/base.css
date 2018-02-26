@@ -1,0 +1,58 @@
+body {
+
+}
+header {
+	background: url(../img/psur-logo.png) left no-repeat;
+	background-size: auto 100%;
+	border: 1px solid grey;
+	box-shadow: 3px 6px grey;
+	text-align: center; 
+}
+
+main {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+footer {
+	text-align: center;
+	background: #86C91A;
+	height: 50px;
+}
+
+footer p {
+	line-height: 50px;
+}
+
+div {
+	/*border: 1px solid;*/
+	/*width: auto;*/
+}
+
+main p {
+	text-align: justify;
+}
+
+div.pair-index {
+	width: auto;
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+div.pair-index h2 {
+	text-align: center;
+}
+
+div.izq {
+	text-align: right;
+}
+
+div.der {
+	text-align: left;
+}
+
+#index-main {
+	text-align: center;
+}
