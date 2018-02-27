@@ -40,6 +40,10 @@ div.pair-index h2,h3 {
 	text-align: center;
 }
 
+div#general-content h3 {
+	text-align: left;
+}
+
 div.izq {
 	text-align: right;
 }
