@@ -35,13 +35,13 @@ p {color:black;
    line-height:20px;
    letter-spacing:2px;
    text-align:justify;
-   white-space:3px;
    margin-left: 120px;
    width: 90%;
    margin-right:10px;
    
      }
-img {margin-left: 120px;width: 90%;height: 600px}
+
+img {margin-left: 120px;width: 90%;height: 600px;float: center}
 
   li {text-align: justify;margin-right: 20px}
 footer {text-align: center;}
