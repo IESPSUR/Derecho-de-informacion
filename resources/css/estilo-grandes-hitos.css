@@ -2,20 +2,21 @@ header {
 	background: url(../img/samuelrivera3.jpg);
 }
 #contenido {margin: 0 auto}
-#body {color:black;width:90%;margin-left:120px;}
+#body {color:black;width:90%;margin-left:160px;}
 #menu{
-   position:relative;
-   width: 113px;
-   height: 100%;
+   position:absolute;
+   width: 150px;
+   height: 300px;
    border: solid;
    background-color: black;
    color: white;
    text-align: center;
    list-style-position: left;
    float:left;
+   
 } 
 
-#li {margin-left: 120px;
+#li {margin-left: 160px;
    width: 90%;font-size: 15px;
    font-family: arial;
    font-weight: normal;
@@ -25,7 +26,7 @@ header {
    margin-bottom: 40px;
    margin-right: 20px}
 
-h2 {text-align: center;margin-left: 120px}
+h2 {text-align: center;margin-left: 160px}
 p {color:black;
    font-size:15px;
    font-family:Arial;
@@ -34,7 +35,7 @@ p {color:black;
    line-height:20px;
    letter-spacing:2px;
    text-align:justify;
-   margin-left: 120px;
+   margin-left: 160px;
    width: 90%;
    margin-right:10px;
    
@@ -43,6 +44,6 @@ p {color:black;
 
   li {text-align: justify;margin-right: 20px}
 footer {text-align: center;}
-#imagen2 {margin-left: 120px;width: 90%;height: 600px;float: center}
-#imagen3 {margin-left: 120px;width: 90%;height: 600px;float: center}
-#imagen4 {margin-left: 120px;float: center; width: 100px;height: 100px}
+#imagen2 {margin-left: 160px;width: 90%;height: 600px;float: center}
+#imagen3 {margin-left: 160px;width: 90%;height: 600px;float: center}
+#imagen4 {margin-left: 200px;float: center; width: 100px;height: 100px}
