@@ -1,0 +1,29 @@
+body{
+	background: #b1cdfd;
+}
+div{
+	
+}	
+
+	#contenedor{
+		padding:1px;
+		overflow: hidden;
+	}
+	#izquierda{
+		float: left;
+		padding:10px;
+		width: 300px;
+		margin: 100px;
+	}
+	#derecha{
+		float: right;
+		padding:10px;
+		width:350px;
+		margin: 100px;
+	}
+
+footer {
+	text-align: center;
+	height: 50px;
+}
+
