@@ -27,9 +27,11 @@ header {
    margin-bottom: 40px;
    margin-right: 20px;
    text-align: justify;
+   
    }
 
-h2 {text-align: center;margin-left: 160px;background: url(../img/samuelrivera3.jpg);color: white;width: 90%}
+h2 {text-align: center;margin-left: 160px;background: url(../img/samuelrivera3.jpg);
+   color: white;width: 90%}
 p {color:black;
    font-size:15px;
    font-family:Arial;
