@@ -1,0 +1,57 @@
+header {
+	background: url(../img/samuelrivera3.jpg);color: white;text-align: center;
+}
+#contenido {margin: 0 auto}
+#body {color:black;width:90%;margin-left:160px;}
+#menu{
+   position:fixed;
+   width: 150px;
+   height: 300px;
+   border: solid;
+   background-color: black;
+   color: white;
+   text-align: center;
+   list-style-position: left;
+   float:left;
+   background-repeat: round;
+   
+} 
+
+#li {margin-left: 160px;
+   width: 90%;font-size: 15px;
+   font-family: arial;
+   font-weight: normal;
+   font-style: normal;
+   line-height: 20px;
+   letter-spacing: 2px;
+   margin-bottom: 40px;
+   margin-right: 20px;
+   text-align: justify;
+   
+   }
+
+h2 {text-align: center;margin-left: 160px;background: url(../img/samuelrivera3.jpg);
+   color: white;width: 90%}
+p {color:black;
+   font-size:15px;
+   font-family:Arial;
+   font-weight:normal;
+   font-style:normal;
+   line-height:20px;
+   letter-spacing:2px;
+   text-align:justify;
+   margin-left: 160px;
+   width: 90%;
+   margin-right:10px;
+   
+     }
+
+
+  li {text-align: justify;margin-right: 20px}
+footer p {text-align: center;
+   background-color: transparent;
+   border-color: green;
+   color: black;}
+#imagen2 {margin-left: 160px;width: 90%;height: 600px;float: center}
+#imagen3 {margin-left: 160px;width: 90%;height: 600px;float: center}
+#imagen4 {margin: 0 auto;float: center; width: 100px;height: 100px;margin-top: 20px}
