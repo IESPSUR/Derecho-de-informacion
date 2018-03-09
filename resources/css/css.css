@@ -1,0 +1,17 @@
+
+header{
+  color: #00FFFF;
+  text-align: center;
+  background: blue;
+  font-size: 30px;
+  opacity: 0.8;
+}
+
+body{
+  background:#FAECC3;
+  color: black;
+  background-position: center;
+  background-size: cover;
+  font-family: "Comic Sans MS", "Times New Roma";
+  text-align: center;
+}
