@@ -1,0 +1,42 @@
+header {
+	background: url(../img/psur-logo.png) left center no-repeat;
+	background-size: 125px 125px;
+	border: 1px solid grey;
+	box-shadow: 3px 6px grey;
+	text-align: center; 
+}
+
+#menu {
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	border: inset;
+	background-color: ;
+	color: ;
+	text-align: left;
+	float: left;
+
+}
+
+#body {
+position: absolute;
+	width: ;
+	height: ;
+	border: inset;
+	background-color: gold;
+	color: ;
+	text-align: justify;
+	float: center;
+	margin-left: 
+	
+}
+
+#imag1 {
+	text-align: center;
+}
+
+
+
+h2{
+	text-align: center;
+}
